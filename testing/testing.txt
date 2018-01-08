@@ -1,0 +1,9 @@
+Ellen Chen - DSA2
+IGME 309-03
+
+The program I tested using Catch is a Rock-Paper-Scissor game, a C/C++ program done for a previous DSA1 class. The program basically runs a game of Rock-Paper-Scissors with up to 10 players.
+To start the game, the user has to enter the number of players that will be playing as well as their names. Once the game randomly assigns a Rock/Paper/Scissor value to each of the players, the game will start. The player then picks two players (each represented as numbers starting from 2 to the maximum number of players playing as inputted by the user) to play against each other. This continues until the user quits the game or there is a winner among the players. Afterwards, the user is given the option to restart the game or quit the game.
+
+Using Catch, the framework tests two things: if the player has entered a valid number of players to start the game, and if all the conditions has been met to run the game. I've considered these tests to be a complete set because both of these tests ensure that the program will run without crashing or running into errors due to bad input.
+The first test is to prevent the game from having more than 10 players or less than 2 players, although it replaces a block of code in the assemble() method for it to work.
+The second test ensures that the game can run properly with all the players and conditions in place. If neither of the conditions has been met, than the game cannot start.

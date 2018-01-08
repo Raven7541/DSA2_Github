@@ -1,0 +1,28 @@
+﻿  Main.cpp
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(79): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(81): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(82): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(83): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(85): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(87): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(89): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(93): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(95): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(153): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(154): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(183): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(189): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(190): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(201): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(207): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(220): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(221): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(272): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(273): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\generatemodels.h(274): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\main.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\main.cpp(69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\ellen\desktop\dsa2_github\proceduralmodels\proceduralmodels\main.cpp(83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ProceduralModels.vcxproj -> C:\Users\Ellen\Desktop\DSA2_Github\ProceduralModels\x64\Debug\ProceduralModels.exe
